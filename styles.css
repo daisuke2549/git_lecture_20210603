@@ -3,3 +3,7 @@ h1,p{
     color: aquamarine;
     font-weight: bold;
 }
+
+h3{
+    text-align: center;
+}
